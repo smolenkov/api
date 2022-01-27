@@ -1,32 +1,31 @@
-[
+{
+  "posts": [
     {
-    "userId": 1,
-    "id": 1,
-    "title": "sunt aut facere repellat provident ",
-    "body": "quia et suscipit suscipit "
-  },
-  {
-    "userId": 1,
-    "id": 2,
-    "title": "qui est esse",
-    "body": "est rerum tempore vitae"
-  },
-  {
-    "userId": 2,
-    "id": 11,
-    "title": "et ea vero quia laudantium autem",
-    "body": "delectus reiciendis molestiae occaecati non minima eveniet qui v"
-  },
-  {
-    "userId": 2,
-    "id": 12,
-    "title": "in quibusdam tempore odit est dolorem",
-    "body": "itaque id aut a odit et ea voluptas et"
-  },
-  {
-    "userId": 2,
-    "id": 13,
-    "title": "dolorum ut in voluptas mollitia et saepe quo animi",
-    "body": "aut dicta possimus sint"
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
