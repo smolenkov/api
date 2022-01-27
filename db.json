@@ -1,4 +1,5 @@
-{
+[
+    {
     "userId": 1,
     "id": 1,
     "title": "sunt aut facere repellat provident ",
@@ -29,3 +30,4 @@
     "title": "dolorum ut in voluptas mollitia et saepe quo animi",
     "body": "aut dicta possimus sint  "
   }
+]
